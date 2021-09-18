@@ -1,0 +1,65 @@
+body{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+#title{
+  background-color:#FF5C58
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu&display=swap');
+
+h1{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5
+}
+.container-fluid{
+  padding:3% 15%
+}
+li{font-size: 1.6font-family: Montserrat;
+  font-weight: bold;
+  padding-bottom: 1.5rem;
+}
+.navbar-brand{
+  font-family: ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.navbar{
+  padding: 0.5em 0  4em 1em
+}
+.nav-link{
+  font-weight: 600;
+
+}
+.nav-item{
+  padding-left:20px
+}
+.butao{
+  margin:1em 1em
+}
+#features{
+  background: #FEFBF3;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cor{
+    color: #ef8172
+}
+.cor:hover{
+  color: #FF4848
+}
+#features h3{
+  font-family: Montserrat;
+  font-weight: bold;
+  padding-bottom: 1.5rem
+}
+.feature{
+  padding: 5%
+}
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  background: #FCD2D1
+}
